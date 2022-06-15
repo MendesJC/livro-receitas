@@ -1,10 +1,7 @@
-#Strogonoff de Frango
+# Strogonoff de Frango
 
-**negrito**
 
-_italico_
-
-###Ingredientes
+### Ingredientes
 
  - 3 colheres de sopa de óleo
  - 1 tablete de caldo de galinha
@@ -15,7 +12,7 @@ _italico_
  - Champignon a gosto
  - 1 lata de creme de leite sem soro
 
-###Modo de Preparo
+### Modo de Preparo
 
 1. Em uma panela, coloque 3 colheres de sopa de óleo e 1 tablete de caldo de galinha. Espere aquecer para dissolver o tablete.
 2. Em seguida, adicione 1 quilo de peito de frango em cubos e deixe dourar.
